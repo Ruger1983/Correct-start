@@ -4,7 +4,7 @@ package ru.correct.calculate;
  * Class Calculate.
  * Method main.
  * Method echo.
- * @param name Your name.
+ * @param name Алексей.
  * @return Echo plus your name.
 */
 
