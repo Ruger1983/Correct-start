@@ -5,4 +5,4 @@
 * @version $Id$
 * @since 0.1
 */
-package ru.Correct_start.calculate;
+package ru.correct.calculate;

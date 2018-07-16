@@ -1,4 +1,4 @@
-package ru.Correct_start.calculate;
+package ru.correct.calculate;
 
 /**
  * Class Calculate.
