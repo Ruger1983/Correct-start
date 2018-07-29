@@ -14,7 +14,7 @@ public class Point {
         this.y = y;
     }
 
-    public double distanseTo(Point that) {
+    public double distanceTo(Point that) {
         Point a = this;
         Point b = that;
 
@@ -31,7 +31,7 @@ public class Point {
         System.out.println("y1 = " + a.y);
         System.out.println("x2 = " + b.x);
         System.out.println("y2 = " + b.y);
-        double result = a.distanseTo(b);
+        double result = a.distanceTo(b);
         System.out.println("Расстояние между точками А и В : " + result);
     }
 }
