@@ -9,6 +9,12 @@ package ru.correct.max;
 public class Max {
     public int max(int first, int second) {
         int count = first > second ? first : second;
-                return count;
+        return count;
+    }
+
+    public int max(int first, int second, int third) {
+        int temp = this.max(first, second);
+        temp = this.max(temp, third);
+        return temp;
     }
 }

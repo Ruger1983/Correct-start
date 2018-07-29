@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="ru.correct.converter.ConverterTest" time="0.001" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="ru.correct.converter.ConverterTest" time="0" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2018.1.3"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -64,6 +64,6 @@
   </properties>
   <testcase classname="ru.correct.converter.ConverterTest" name="when60RubleToDollarThen1" time="0"/>
   <testcase classname="ru.correct.converter.ConverterTest" name="when70RubleToEuroThen1" time="0"/>
-  <testcase classname="ru.correct.converter.ConverterTest" name="when1DollarToRubleThen60" time="0.001"/>
+  <testcase classname="ru.correct.converter.ConverterTest" name="when1DollarToRubleThen60" time="0"/>
   <testcase classname="ru.correct.converter.ConverterTest" name="when1EuroToRubleThen70" time="0"/>
 </testsuite>
