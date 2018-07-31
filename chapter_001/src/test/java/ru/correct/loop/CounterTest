@@ -1,0 +1,20 @@
+package ru.correct.loop;
+
+import org.junit.Test;
+
+import static org.hamcrest.core.Is.is;
+import static org.junit.Assert.assertThat;
+
+/**
+ * @author Aleksei Aizenberg (mailto:aleksvld1983@yandex.ru)
+ * @version $Id$
+ * @since 0.1
+ */
+
+public class CounterTest {
+    @Test
+    public void sumFromStartToFinish() {
+        Counter sum = new Counter();
+        int result = sum.add(1, 10);
+        assertThat(result, is(30));
+    }

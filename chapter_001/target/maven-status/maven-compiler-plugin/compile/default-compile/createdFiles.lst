@@ -1,5 +1,6 @@
 ru\correct\calculator\Fit.class
 ru\correct\condition\DummyBot.class
+ru\correct\loop\Counter.class
 ru\correct\calculate\Calculate.class
 ru\correct\condition\Point.class
 ru\correct\max\Max.class
