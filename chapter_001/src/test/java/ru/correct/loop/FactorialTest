@@ -1,0 +1,26 @@
+package ru.correct.loop;
+
+import org.junit.Test;
+
+import static org.hamcrest.core.Is.is;
+import static org.junit.Assert.assertThat;
+
+/**
+ * @author Aleksei Aizenberg (mailto:aleksvld1983@yandex.ru)
+ * @version $Id$
+ * @since 0.1
+ */
+
+public class FactorialTest {
+    @Test
+    public void whenNIsFive() {
+        Factorial fac = new Factorial();
+        int result = fac.cacl(5);
+        assertThat(result, is(120));
+
+        @Test
+        public void whenNIsFour() {
+            Factorial fac = new Factorial();
+            int result = fac.cacl(4);
+            assertThat(result, is(24));
+    }
