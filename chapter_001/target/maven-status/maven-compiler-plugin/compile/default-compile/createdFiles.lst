@@ -6,5 +6,6 @@ ru\correct\condition\Point.class
 ru\correct\max\Max.class
 ru\correct\loop\Factorial.class
 ru\correct\condition\Triangle.class
+ru\correct\loop\Board.class
 ru\correct\calculator\Calculator.class
 ru\correct\converter\Converter.class
