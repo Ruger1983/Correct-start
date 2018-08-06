@@ -8,7 +8,7 @@ import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.*;
 
 /**
- * @author Aleksei Aizenberg (mailto:zleksvld1983@yandex.ru)
+ * @author Aleksei Aizenberg (mailto:aleksvld1983@yandex.ru)
  * @version $Id$
  * @since 0.1
  */
