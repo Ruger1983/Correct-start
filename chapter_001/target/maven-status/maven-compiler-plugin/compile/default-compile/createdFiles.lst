@@ -3,6 +3,7 @@ ru\correct\array\Square.class
 ru\correct\array\Turn.class
 ru\correct\condition\DummyBot.class
 ru\correct\calculate\Calculate.class
+ru\correct\array\ArrayDuplicate.class
 ru\correct\max\Max.class
 ru\correct\loop\Factorial.class
 ru\correct\loop\Board.class

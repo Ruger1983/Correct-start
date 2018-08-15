@@ -17,7 +17,7 @@ public class MatrixCheck {
                         result = false;
                     }
                 }
-                if (j == data.length - i) {
+                if (j == data.length - i - 1) {
                     boolean temp2 = data[i][j];
                     if (!temp2) {
                         result = false;

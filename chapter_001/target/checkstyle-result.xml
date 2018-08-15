@@ -2,6 +2,8 @@
 <checkstyle version="6.11.2">
 <file name="C:\projects\Correct-start\chapter_001\src\main\java\ru\correct\array\ArrayChar.java">
 </file>
+<file name="C:\projects\Correct-start\chapter_001\src\main\java\ru\correct\array\ArrayDuplicate.java">
+</file>
 <file name="C:\projects\Correct-start\chapter_001\src\main\java\ru\correct\array\BubbleSort.java">
 </file>
 <file name="C:\projects\Correct-start\chapter_001\src\main\java\ru\correct\array\Check.java">
@@ -41,6 +43,8 @@
 <file name="C:\projects\Correct-start\chapter_001\src\main\java\ru\correct\loop\Paint.java">
 </file>
 <file name="C:\projects\Correct-start\chapter_001\src\main\java\ru\correct\max\Max.java">
+</file>
+<file name="C:\projects\Correct-start\chapter_001\src\test\java\ru\correct\array\ArrayDuplicateTest.java">
 </file>
 <file name="C:\projects\Correct-start\chapter_001\src\test\java\ru\correct\calculate\CalculateTest.java">
 </file>
