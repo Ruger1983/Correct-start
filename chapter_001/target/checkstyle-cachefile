@@ -1,6 +1,7 @@
-#Wed Aug 15 18:51:47 MSK 2018
+#Mon Aug 20 10:44:16 MSK 2018
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\array\\MatrixCheck.java=1534265933532
 C\:\\projects\\Correct-start\\chapter_001\\src\\test\\java\\ru\\correct\\calculator\\FitTest.java=1532171151340
+C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\tictactoe\\TicTacToe.java=1534742009296
 C\:\\projects\\Correct-start\\chapter_001\\src\\test\\java\\ru\\correct\\calculate\\package-info.java=1531758638630
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\array\\Square.java=1533575074616
 C\:\\projects\\Correct-start\\chapter_001\\src\\test\\java\\ru\\correct\\array\\ArrayDuplicateTest.java=1534346243669
@@ -22,9 +23,11 @@ configuration*?=BB2B8ADEF55FAE27532E3C0E1DC1ACD7CC5291DA
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\array\\ArrayDuplicate.java=1534347647580
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\max\\Max.java=1532879650461
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\array\\ArrayChar.java=1533746371354
+C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\tictactoe\\Figure3T.java=1534741904690
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\condition\\DummyBot.java=1532627151099
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\condition\\Point.java=1532876182181
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\array\\Check.java=1533742840412
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\loop\\Factorial.java=1533059377243
+C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\tictactoe\\Logic3T.java=1534751001533
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\array\\FindLoop.java=1533577255041
 C\:\\projects\\Correct-start\\chapter_001\\src\\main\\java\\ru\\correct\\condition\\Triangle.java=1532877509112

@@ -3,6 +3,7 @@ ru\correct\array\Square.class
 ru\correct\array\Turn.class
 ru\correct\condition\DummyBot.class
 ru\correct\calculate\Calculate.class
+ru\correct\tictactoe\TicTacToe.class
 ru\correct\array\ArrayDuplicate.class
 ru\correct\max\Max.class
 ru\correct\loop\Factorial.class
@@ -10,6 +11,7 @@ ru\correct\loop\Board.class
 ru\correct\calculator\Calculator.class
 ru\correct\array\ArrayChar.class
 ru\correct\array\MatrixCheck.class
+ru\correct\tictactoe\Figure3T.class
 ru\correct\array\FindLoop.class
 ru\correct\calculator\Fit.class
 ru\correct\loop\Paint.class
@@ -17,5 +19,6 @@ ru\correct\loop\Counter.class
 ru\correct\array\Matrix.class
 ru\correct\array\BubbleSort.class
 ru\correct\condition\Point.class
+ru\correct\tictactoe\Logic3T.class
 ru\correct\condition\Triangle.class
 ru\correct\converter\Converter.class
