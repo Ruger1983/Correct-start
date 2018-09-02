@@ -1,0 +1,26 @@
+package ru.correct.testsafter;
+
+import org.junit.Test;
+
+import static org.hamcrest.core.Is.is;
+import static org.junit.Assert.assertThat;
+
+public class PointsOnLineTest {
+    @Test
+    public void whenOneThreeTwoFourThenTrue() {
+        PointsOnLine one = new PointsOnLine();
+        one.isResult(1, 3, 2, 4);
+        boolean result = one.isResult();
+        boolean expected = true;
+        assertThat(result, is(expected));
+    }
+
+    @Test
+    public void whenOneTwoThreeFourThenFalse() {
+        PointsOnLine one = new PointsOnLine();
+        one.isResult(1, 2, 3, 4);
+        boolean result = one.isResult();
+        boolean expected = false;
+        assertThat(result, is(expected));
+    }
+}

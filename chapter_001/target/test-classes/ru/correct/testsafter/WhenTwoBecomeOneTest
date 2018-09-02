@@ -1,0 +1,17 @@
+package ru.correct.array;
+
+import org.junit.Test;
+
+import static org.hamcrest.core.Is.is;
+import static org.junit.Assert.assertThat;
+
+public class WhenTwoBecomeOneTest {
+
+    @Test
+    public void whenFirstIsThreeAndSecondIsFour() {
+        WhenTwoBecomeOne array = new WhenTwoBecomeOne({2, 2, 4}, {1, 3, 8, 9});
+        int result = array.conc();
+        int expect = {1, 2, 2, 3, 4, 8, 9};
+        assertThat(result, is(expect));
+    }
+}

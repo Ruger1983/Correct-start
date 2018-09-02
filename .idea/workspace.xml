@@ -1,21 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b46a9031-80e1-43da-bd03-8dbd04b5dbfd" name="Default" comment="I have created the simple calculator and the test for it">
+    <list default="true" id="f899308f-e1c8-4f87-8a7e-35b61ad57889" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_002/src/test/java/ru/correct/tracker/TrackerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_002/target/checkstyle-cachefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_002/target/checkstyle-checker.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_002/target/checkstyle-result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_002/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_002/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_001/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/checkstyle-cachefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/checkstyle-result.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/checkstyle-result.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/TEST-ru.correct.array.ArrayDuplicateTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/surefire-reports/TEST-ru.correct.array.ArrayDuplicateTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/TEST-ru.correct.calculator.CalculatorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/surefire-reports/TEST-ru.correct.calculator.CalculatorTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.array.ArrayDuplicateTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.array.ArrayDuplicateTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.calculate.CalculateTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.calculate.CalculateTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.calculator.CalculatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.calculator.CalculatorTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.calculator.FitTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.calculator.FitTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.converter.ConverterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.converter.ConverterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/array/ArrayChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/array/ArrayDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/array/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/array/Check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/array/FindLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/array/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/array/MatrixCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/array/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/array/Turn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/calculate/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/calculator/Fit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/condition/DummyBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/condition/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/condition/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/converter/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/loop/Board.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/loop/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/loop/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/loop/Paint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/max/Max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/testsafter/PointsOnLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/testsafter/WhenTwoBecomeOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/tictactoe/Figure3T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/tictactoe/Logic3T.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/classes/ru/correct/tictactoe/TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/TEST-ru.correct.array.ArrayDuplicateTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/TEST-ru.correct.calculate.CalculateTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/TEST-ru.correct.calculator.CalculatorTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/TEST-ru.correct.calculator.FitTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/TEST-ru.correct.converter.ConverterTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.array.ArrayDuplicateTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.calculate.CalculateTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.calculator.CalculatorTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.calculator.FitTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/surefire-reports/ru.correct.converter.ConverterTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/test-classes/ru/correct/array/ArrayDuplicateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/test-classes/ru/correct/calculate/CalculateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/test-classes/ru/correct/calculator/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/test-classes/ru/correct/calculator/FitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/test-classes/ru/correct/converter/ConverterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/chapter_001/target/" />
+    <ignored path="$PROJECT_DIR$/chapter_002/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,118 +74,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="WhenTwoBecomeOne.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/testsafter/WhenTwoBecomeOne.java">
+      <file leaf-file-name="Tracker.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter_002/src/main/java/ru.correct/tracker/Tracker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            <state relative-caret-position="275">
+              <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
               <folding>
-                <element signature="docComment;class#WhenTwoBecomeOne#0" expanded="true" />
+                <element signature="docComment;class#Tracker#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindLoopTest" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/FindLoopTest">
+      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_002/src/main/java/ru.correct/tracker/Item.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="9" selection-start-line="9" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="540">
+              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#Item#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindLoop.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/FindLoop.java">
+      <file leaf-file-name="TrackerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter_002/src/test/java/ru/correct/tracker/TrackerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WhenTwoBecomeOneTest" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/testsafter/WhenTwoBecomeOneTest">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="167">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/calculator/CalculateTest.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/calculator/CalculatorTest.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/calculator/Calculator.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/converter/Converter.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/converter/ConverterTest.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/calculator/Fit.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/calculator/FitTest.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/condition/DummyBotTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/condition/DummyBot.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/condition/Point.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/condition/TriangleTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/condition/Triangle.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/max/MaxTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/max/Max.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/loop/CounterTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/loop/Counter.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/loop/Factorial.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/loop/FactorialTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/loop/BoardTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/loop/Board.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/loop/Paint.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/loop/PaintTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Square.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/SquareTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/FindLoop.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/FindLoopTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Turn.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/TurnTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/CheckTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Check.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/ArrayChar.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/ArrayCharTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/BubbleSortTest.groovy" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/BubbleSortTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Ggg.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Matrix.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/MatrixTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/MatrixCheckTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/MatrixCheck.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/ArrayDuplicateTest.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/ArrayDuplicate.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/tictactoe/Figure3T.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/tictactoe/TicTacToe.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/tictactoe/Logic3TTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/tictactoe/Logic3T.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/tictactoe/F.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/testsafter/PointsOnLineTest" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/testsafter/PointsOnLine.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/testsafter/WhenTwoBecomeOne.java" />
-        <option value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/testsafter/WhenTwoBecomeOneTest" />
+        <option value="$PROJECT_DIR$/chapter_002/src/main/java/ru.correct/tracker/Item.java" />
+        <option value="$PROJECT_DIR$/chapter_002/src/test/java/ru/correct/tracker/TrackerTest.java" />
+        <option value="$PROJECT_DIR$/chapter_002/src/main/java/ru.correct/tracker/Tracker.java" />
       </list>
     </option>
   </component>
@@ -146,11 +126,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="chapter_001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="chapter_002" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="chapter_001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="chapter_002" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
@@ -163,168 +143,137 @@
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="false" id="Update" />
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="correct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="correct" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_002" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="correct" type="462c0819:PsiDirectoryNode" />
-              <item name="testsafter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tracker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_002" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_002" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Correct-start" type="b2602c69:ProjectViewProjectNode" />
               <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter_002" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="correct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="correct" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="junior" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Correct-start" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ru" type="462c0819:PsiDirectoryNode" />
-              <item name="correct" type="462c0819:PsiDirectoryNode" />
-              <item name="testsafter" type="462c0819:PsiDirectoryNode" />
+              <item name="tracker" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
-    <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/loop" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="ru.correct.array" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="groovy.util.GroovyTestCase" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\projects\Correct-start\chapter_001\src\test\java\ru\correct\calculate" />
-    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -338,53 +287,124 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TicTacToe">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.correct.array.BubbleSort" />
-      <module name="chapter_001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.correct.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.correct.calculate.Calculate" />
-      <module name="chapter_001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.correct.calculate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.correct.condition.Point" />
-      <module name="chapter_001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.correct.condition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.correct.tictactoe.TicTacToe" />
-      <module name="chapter_001" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.correct.tictactoe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TrackerTest.findByIdTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TrackerTest.deleteItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter_002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.correct.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.correct.tracker" />
+      <option name="MAIN_CLASS_NAME" value="ru.correct.tracker.TrackerTest" />
+      <option name="METHOD_NAME" value="deleteItemTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TrackerTest.findAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter_002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.correct.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.correct.tracker" />
+      <option name="MAIN_CLASS_NAME" value="ru.correct.tracker.TrackerTest" />
+      <option name="METHOD_NAME" value="findAllTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TrackerTest.findByIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter_002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.correct.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.correct.tracker" />
+      <option name="MAIN_CLASS_NAME" value="ru.correct.tracker.TrackerTest" />
+      <option name="METHOD_NAME" value="findByIdTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TrackerTest.findByNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter_002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.correct.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.correct.tracker" />
+      <option name="MAIN_CLASS_NAME" value="ru.correct.tracker.TrackerTest" />
+      <option name="METHOD_NAME" value="findByNameTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="TrackerTest.whenReplaceNameThenReturnNewName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter_002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.correct.tracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.correct.tracker" />
+      <option name="MAIN_CLASS_NAME" value="ru.correct.tracker.TrackerTest" />
+      <option name="METHOD_NAME" value="whenReplaceNameThenReturnNewName" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -425,17 +445,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Calculate" />
-      <item itemvalue="Application.Point" />
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.TicTacToe" />
+      <item itemvalue="JUnit.TrackerTest.whenReplaceNameThenReturnNewName" />
+      <item itemvalue="JUnit.TrackerTest.deleteItemTest" />
+      <item itemvalue="JUnit.TrackerTest.findAllTest" />
+      <item itemvalue="JUnit.TrackerTest.findByNameTest" />
+      <item itemvalue="JUnit.TrackerTest.findByIdTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TicTacToe" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.Point" />
-        <item itemvalue="Application.Calculate" />
+        <item itemvalue="JUnit.TrackerTest.findByIdTest" />
+        <item itemvalue="JUnit.TrackerTest.findByNameTest" />
+        <item itemvalue="JUnit.TrackerTest.findAllTest" />
+        <item itemvalue="JUnit.TrackerTest.deleteItemTest" />
+        <item itemvalue="JUnit.TrackerTest.whenReplaceNameThenReturnNewName" />
       </list>
     </recent_temporary>
   </component>
@@ -444,78 +466,74 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b46a9031-80e1-43da-bd03-8dbd04b5dbfd" name="Default" comment="" />
-      <created>1531759944035</created>
+      <changelist id="f899308f-e1c8-4f87-8a7e-35b61ad57889" name="Default" comment="" />
+      <created>1535561977516</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531759944035</updated>
+      <updated>1535561977516</updated>
     </task>
-    <task id="LOCAL-00001" summary="Try to run test">
-      <created>1531765921937</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1531765921937</updated>
-    </task>
-    <task id="LOCAL-00002" summary="I have created the simple calculator and the test for it">
-      <created>1532025110144</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1532025110144</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Some changes in the code. Now it more short">
-      <created>1534260298209</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1534260298209</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unnamed - 2018.08.02 at 18h 40m 39s.xml">
-      <configuration name="Unnamed" configurationId="JUnit" />
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 19h 23m 02s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
     </history-entry>
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 19h 24m 12s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 19h 28m 13s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 19h 32m 43s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 19h 34m 14s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 20h 31m 57s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 20h 32m 05s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 20h 33m 39s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 20h 34m 12s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrackerTest_findByNameTest - 2018.08.31 at 20h 34m 59s.xml">
+      <configuration name="TrackerTest.findByNameTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32885906" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32885906" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.12210797" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44026846" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.31275168" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27892032" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.14652957" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3489933" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -523,400 +541,42 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Try to run test" />
-    <MESSAGE value="I have created the simple calculator and the test for it" />
-    <MESSAGE value="Some changes in the code. Now it more short" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some changes in the code. Now it more short" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/calculator/Fit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/condition/DummyBot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/condition/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-221">
-          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/condition/TriangleTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="29" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/condition/DummyBotTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/condition/Point.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/max/MaxTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/max/Max.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/loop/Counter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/loop/CounterTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/loop/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/loop/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/loop/BoardTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/loop/FactorialTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/function/BiPredicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/loop/Paint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/loop/PaintTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/BubbleSortTest.groovy" />
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Ggg.java" />
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Turn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/ArrayChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/Check.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/MatrixCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/ArrayDuplicateTest" />
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="13" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/ArrayDuplicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding>
-            <element signature="docComment;class#ArrayDuplicate#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/tictactoe/Logic3TTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" lean-forward="true" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/tictactoe/Figure3T.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#545#546#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/tictactoe/Logic3T.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="70" column="17" lean-forward="true" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-          <folding>
-            <element signature="e#231#232#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/tictactoe/TicTacToe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/tictactoe/F.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/calculator/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="40" column="1" lean-forward="true" selection-start-line="2" selection-end-line="40" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/calculator/Calculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/testsafter/PointsOnLineTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/testsafter/PointsOnLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/MatrixCheckTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="22" column="50" selection-start-line="22" selection-start-column="50" selection-end-line="22" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/ArrayDuplicateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/ArrayCharTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/TurnTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/CheckTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/BubbleSortTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/MatrixTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/SquareTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/array/FindLoopTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="9" selection-start-line="9" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/array/FindLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/test/java/ru/correct/testsafter/WhenTwoBecomeOneTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter_001/src/main/java/ru/correct/testsafter/WhenTwoBecomeOne.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_002/src/main/java/ru.correct/tracker/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
           <folding>
-            <element signature="docComment;class#WhenTwoBecomeOne#0" expanded="true" />
+            <element signature="docComment;class#Item#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_002/src/test/java/ru/correct/tracker/TrackerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter_002/src/main/java/ru.correct/tracker/Tracker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="77" column="18" lean-forward="true" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+          <folding>
+            <element signature="docComment;class#Tracker#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -924,68 +584,9 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>chapter_001</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
